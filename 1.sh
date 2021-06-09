@@ -6,3 +6,4 @@ gpasswd -d username groupname
 gpasswd -a username groupname
 gpasswd -A username groupname
 gpasswd -R username groupname
+gpasswd -M username groupname
