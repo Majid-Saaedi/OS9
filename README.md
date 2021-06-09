@@ -32,6 +32,8 @@ whoami: این دستور نام کاربر فعلی را نمایش میدهد
 
 id Yourname: با این دستور میتوان شماره کاربری یوزرهایی که روی سیستم وجود دارند را مشاهده کرد
 
+<img width="408" alt="2" src="https://user-images.githubusercontent.com/83408966/121359220-815b3a80-c948-11eb-9b6e-ddbb030a0927.PNG">
+
 --------------------------------------
 
 سوال 3
@@ -53,6 +55,8 @@ sudo groupadd Uni: ساخت گروهی با نام یونی
 sudo usermod -G sadjad,Uni oslab: عضو کردن کاربر ساخته شده در سوال قبل به دو گروه سجاد و یونی
 
 sudo gpasswd -A oslab sadjad: تعیین کردن این کاربر به عنوان ادمین گروه سجاد
+
+<img width="385" alt="4" src="https://user-images.githubusercontent.com/83408966/121359263-8b7d3900-c948-11eb-9b90-6a0c5795632b.PNG">
 
 --------------------------------------
 
